@@ -1,12 +1,12 @@
 # TextUtils
 
-TextUtils is a powerful single-page text manipulation application built using React. It offers a seamless experience for users to analyze and enhance their textual content. From basic word and character count to advanced features like removing extra spaces and capitalizing the first letter of each sentence, TextUtils empowers content creators with a versatile set of tools.
+TextUtils is a powerful single-page text manipulation application built using React. It offers a seamless experience for users to analyze and enhance their textual content. From basic word and character count to features like changing between dark and light mode, TextUtils empowers content creators with a versatile set of tools.
 
 ## Features
 
 - **Word and Character Count:** Effortlessly analyze the length of your text.
-- **Space Removal:** Remove extra spaces to enhance the clarity of your content.
-- **Sentence Capitalization:** Automatically capitalize the first letter of each sentence for polished writing.
+- **Reading Time:** Gives users an estimated reading time of the given text.
+- **Sentence Capitalization(Coming Soon):** Automatically capitalize the first letter of each sentence for polished writing.
 - **AI Integration (Coming Soon):** Explore upcoming features, such as paraphrasing, summary writing, and word toggling, all driven by AI.
 
 
